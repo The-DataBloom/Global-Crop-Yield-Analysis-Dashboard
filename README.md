@@ -16,13 +16,12 @@
 <p align="center">
   <img src="./Output/preview.jpg"
        alt="Global Crop Yield Analysis Dashboard"
-       width="800">
+       width="450">
 </p>
 
 <p align="center">
   <i>Interactive Power BI dashboard exploring global agricultural productivity (1990–2013).</i>
 </p>
----
 
 ## 📖 Project Story
 
