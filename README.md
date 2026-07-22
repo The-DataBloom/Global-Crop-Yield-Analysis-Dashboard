@@ -5,7 +5,6 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-green)
-![License](https://img.shields.io/badge/License-MIT-success)
 
 </p>
 
@@ -13,7 +12,7 @@
 > Exploring Global Agricultural Productivity Through Interactive Power BI Analytics
 
 <p align="center">
-  <img src="preview.png" alt="Global Crop Yield Analysis Dashboard" width="950">
+  <img src="Output/preview.png" alt="Global Crop Yield Analysis Dashboard" width="950">
 </p>
 
 ---
