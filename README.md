@@ -6,7 +6,6 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Power Query](https://img.shields.io/badge/Power_Query-ETL-green)
 ![License](https://img.shields.io/badge/License-MIT-success)
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)
 
 </p>
 
@@ -295,17 +294,8 @@ The dashboard contains:
 ├── Dataset/
 ├── Project Files/
 ├── Output/
-├── Images/
 └── README.md
 ```
-
----
-
-# 📸 Dashboard Preview
-
-<p align="center">
-<img src="preview.png" alt="Dashboard Preview" width="1000">
-</p>
 
 ---
 
