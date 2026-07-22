@@ -11,10 +11,17 @@
 > **Data Bloom 🌸**  
 > Exploring Global Agricultural Productivity Through Interactive Power BI Analytics
 
+<h2 align="center">📊 Dashboard Preview</h2>
+
 <p align="center">
-  <img src="./Output/preview.jpg" alt="Dashboard Preview" width="800">
+  <img src="./Output/preview.jpg"
+       alt="Global Crop Yield Analysis Dashboard"
+       width="800">
 </p>
 
+<p align="center">
+  <i>Interactive Power BI dashboard exploring global agricultural productivity (1990–2013).</i>
+</p>
 ---
 
 ## 📖 Project Story
