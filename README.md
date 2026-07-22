@@ -12,7 +12,7 @@
 > Exploring Global Agricultural Productivity Through Interactive Power BI Analytics
 
 <p align="center">
-  <img src="Output/preview.png" alt="Global Crop Yield Analysis Dashboard" width="950">
+  <img src="./Output/preview.jpg" alt="Dashboard Preview" width="950">
 </p>
 
 ---
